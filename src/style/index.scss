@@ -1,0 +1,15 @@
+@import "~@fontsource/open-sans/index.css"; // Weight 400.
+
+$red : red;
+body{
+  background-color: $red;
+}
+.hero {
+  background : url('../images/4.png') center;
+  height: 500px;
+  max-width: 400px;
+}
+
+h1 {
+  font-family: "Open Sans";
+}
